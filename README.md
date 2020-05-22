@@ -1,2 +1,3 @@
 # kotlinclass
-mini curso de kotlin
+
+curso de kotlin basico
